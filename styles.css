@@ -3,8 +3,9 @@ body{
     background-color: black;
 }
 h1{
-    color: rgb(197, 245, 8);
+    color: rgb(99, 8, 245);
 }
-section{
-    background-color: blue;
+.seila{
+   float:left;
+   margin: 1px;
 }
