@@ -1,11 +1,15 @@
 body{
+    width:100vw;
     color: rgb(190, 197, 155);
     background-color: black;
 }
 h1{
     color: rgb(99, 8, 245);
 }
-.seila{
-   float:left;
-   margin: 1px;
+#abacaxi{
+    display:flex;
+    flex-direction: row;
+}
+.video{
+margin-left: 10px;
 }
